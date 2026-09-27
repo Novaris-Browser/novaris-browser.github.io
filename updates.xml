@@ -9,14 +9,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Novaris Browser — updates</title>
-    <link>https://novarisbrowser.example/updates.xml</link>
+    <link>https://novaris-browser.github.io/updates.xml</link>
     <description>Release notes for Novaris Browser, a secure browser for Windows.</description>
     <language>en-GB</language>
-    <atom:link href="https://novarisbrowser.example/updates.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://novaris-browser.github.io/updates.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>0.7.5 — Tab transfer, side panel, media controls, saved pages</title>
-      <link>https://novarisbrowser.example/index.html#updates</link>
+      <link>https://novaris-browser.github.io/index.html#updates</link>
       <guid isPermaLink="false">novaris-0.7.5</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[
