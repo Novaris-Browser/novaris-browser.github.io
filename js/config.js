@@ -11,7 +11,7 @@ window.NOVARIS_SITE = {
 
   /* The canonical origin. Used for canonical tags, the sitemap and structured
      data. Must be the real https origin in production, with no trailing slash. */
-  origin: 'https://novarisbrowser.example',
+  origin: 'https://novaris-browser.github.io',
 
   /* Where published installers and the update manifest live. */
   feed: 'https://updates.yladevs.com/latest.yml',
@@ -25,7 +25,7 @@ window.NOVARIS_SITE = {
      ------------------------------------------------------------------------ */
   ads: {
     enabled: true,
-    publisher: 'ca-pub-REPLACE_WITH_YOUR_PUBLISHER_ID',
+    publisher: 'pub-3309273645696464',
     /* Slot ids, one per placement below. Filled from the AdSense dashboard. */
     slots: {
       homeMid: 'REPLACE_SLOT_HOME_MID',
@@ -50,7 +50,7 @@ window.NOVARIS_SITE = {
       enabled: false,
     },
     cashapp: {
-      cashtag: 'REPLACE_WITH_YOUR_CASHAPP_CASHTAG',
+      cashtag: 'ta3004835',
       enabled: false,
     },
   },
